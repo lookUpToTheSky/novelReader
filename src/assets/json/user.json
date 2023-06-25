@@ -1,0 +1,18 @@
+{
+    "code": "200",
+    "message":"查询成功！",
+    "data":[
+        {
+            "id": 1,
+            "username": "admin",
+            "password":"admin123",
+            "avatar": "https://img1.baidu.com/it/u=2989968135,2061858165&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1687107600&t=23bcef465092eee2a59566b0cab2be70"
+        },
+        {
+            "id": 2,
+            "username": "lmf",
+            "password":"lmf123",
+            "avatar": "https://img0.baidu.com/it/u=779040798,3900256075&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1687107600&t=4b2d96fc88a328c7070ce33d48abeff5"
+        }
+    ]
+}
